@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My name is Martin Grabina, from Buenos Aires, Argentina.  
+We can talk in 🇬🇧🇪🇸🇵🇹.  
+But also in one of the languages down here 😉. 
+
+
 <!--
 **mgrabina/mgrabina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
